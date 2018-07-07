@@ -37,6 +37,9 @@
 ---
 ## Terms
 Be careful not to let the script run for too long as it will max out the number of attendees for that event with dummy data!
+
 Please use this script **__ETHICALLY!__**
+
 Strictly for testing and development purpose only!!
+
 **__I am in no way responsible__** for any inconvenience or trouble YOU caused!
